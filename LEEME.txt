@@ -1,0 +1,15 @@
+
+############ INSTRUCCIONES PARA CORRER EL PROGRAMA #############
+
+    1. Para compilar el programa, desde una terminal entrar a la carpeta "reinas"
+       y ejecutar el comando
+                $ make
+
+    2. La compilación crea una carpeta "dist" donde se guarda el ejecutable.
+
+    3. Entrara a la carpeta del ejecutable desde la terminal y ejecutar el
+       programa con el comando:
+                $ ./reinas
+
+    4. Para ver la ayuda del programa ejecute el comando:
+                $ ./reinas ?
